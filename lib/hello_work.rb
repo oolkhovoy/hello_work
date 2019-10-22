@@ -1,6 +1,7 @@
 require "hello_work/version"
 
 module HelloWork
-  class Error < StandardError; end
-  # Your code goes here...
+  def self.greet(name)
+    puts "Hello, #{name}! I'm Ruby!"
+  end
 end

@@ -1,7 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8056881-d2c3-479f-b08b-3eeac9ffbb65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-gemset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_work.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hello_work.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hello_work/version.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/hello_work_test.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SYWLdi06dyoBh4BBf4i9iDFSDg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/.rvm/bin/rvm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView />
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8056881-d2c3-479f-b08b-3eeac9ffbb65" name="Default Changelist" comment="" />
+      <created>1571740954047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571740954047</updated>
+      <workItem from="1571740955323" duration="739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="809" y="507" width="512" height="244" key="Github.ShareDialog" timestamp="1571741353978">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="809" y="507" width="512" height="244" key="Github.ShareDialog/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1571741353978" />
+    <state x="672" y="321" width="565" height="583" key="Github.UntrackedFilesDialog" timestamp="1571741692787">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="672" y="321" width="565" height="583" key="Github.UntrackedFilesDialog/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1571741692787" />
+    <state width="937" height="318" key="GridCell.Tab.0.bottom" timestamp="1571741770669">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="937" height="318" key="GridCell.Tab.0.bottom/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1571741770669" />
+    <state width="937" height="318" key="GridCell.Tab.0.center" timestamp="1571741770669">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="937" height="318" key="GridCell.Tab.0.center/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1571741770669" />
+    <state width="937" height="318" key="GridCell.Tab.0.left" timestamp="1571741770668">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="937" height="318" key="GridCell.Tab.0.left/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1571741770668" />
+    <state width="937" height="318" key="GridCell.Tab.0.right" timestamp="1571741770669">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state width="937" height="318" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1571741770669" />
+    <state x="623" y="287" width="672" height="678" key="search.everywhere.popup" timestamp="1571741070808">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="623" y="287" width="672" height="678" key="search.everywhere.popup/0.27.1920.1173/1920.0.1920.1200@0.27.1920.1173" timestamp="1571741070808" />
   </component>
 </project>
